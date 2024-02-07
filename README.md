@@ -8,7 +8,7 @@
 
 ![technodad](images/td50p.png)
 
-The one thing I miss from Windows is [![](https://github.com/1j01/jspaint/blob/master/images/icons/32x32.png) M$paint](https://en.wikipedia.org/wiki/Microsoft_Paint) (no joke!!!) 😆 Which is why [this site 👉 jspaint.app](https://jspaint.app) was such a weird, unexpected & welcome surprise after switching to Linux. I should mention that this wonderful project's author is active on github. Check them out 👉 [1j01](https://github.com/1j01)
+The one thing I miss from Windows is [![](https://github.com/1j01/jspaint/blob/master/images/icons/32x32.png) M$paint](https://en.wikipedia.org/wiki/Microsoft_Paint) (no joke!!!) 😆 Which is why this site 👉 [jspaint.app](https://jspaint.app) was such a weird, unexpected & welcome surprise after switching to Linux. I should mention that this wonderful project's author is active on github. Check them out 👉 [1j01](https://github.com/1j01)
 
 ---
 >14:38, 24. November, 2022

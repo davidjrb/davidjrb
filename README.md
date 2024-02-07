@@ -15,8 +15,6 @@ The one thing I miss from Windows is [![](https://github.com/1j01/jspaint/blob/m
 ### Git Push
 ![img](https://github.com/davidjrb/davidjrb.github.io/blob/master/images/bwghxs.png)
 
-https://github.com/davidjrb/davidjrb.github.io/blob/master/images/bwghxs.png
-
 My first attempt at pushing to github... ¯\\\_(ツ)\_/¯
 
 _"Procrastination is the refusal or inability to be with difficult emotions"_

@@ -1,1 +1,1 @@
-![Bruge](/images/bruges-small.png)
+![Bruge](/images/bruge-small.png)
